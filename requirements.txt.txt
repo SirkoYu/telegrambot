@@ -1,5 +1,0 @@
-aiogram
-aiosqlite
-python-dotenv
-oauth2client
-gspread
